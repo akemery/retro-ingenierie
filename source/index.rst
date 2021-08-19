@@ -12,6 +12,7 @@ Cours de Rétro-ingénierie
    
    intro
    pattern
+   installtools
 
 
 
